@@ -1,0 +1,17 @@
+{
+  "entry0" : {
+    "BoardTitle" : "LOLIN(WEMOS) D1 R2 & mini",
+    "BoardName" : "ESP8266_WEMOS_D1MINI",
+    "BoardVariant" : "d1_mini"
+  },
+  "entry1" : {
+    "BoardTitle" : "LOLIN(WEMOS) D1 mini Pro",
+    "BoardName" : "ESP8266_WEMOS_D1MINIPRO",
+    "BoardVariant" : "d1_mini"
+  },
+  "entry2" : {
+    "BoardTitle" : "LOLIN(WEMOS) D1 mini Lite",
+    "BoardName" : "ESP8266_WEMOS_D1MINILITE",
+    "BoardVariant" : "d1_mini"
+  }
+}

@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="15">
+      <Unit0>
+        <Filename Value="espota.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="5"/>
+        <CursorPos X="47" Y="17"/>
+        <UsageCount Value="77"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="mainunit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="MainForm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="MainUnit"/>
+        <TopLine Value="211"/>
+        <CursorPos X="56" Y="232"/>
+        <UsageCount Value="77"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="aboutunit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="AboutForm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="AboutUnit"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="2"/>
+        <CursorPos X="58" Y="13"/>
+        <UsageCount Value="77"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="espdb.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="EspDB"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="121"/>
+        <CursorPos X="24" Y="131"/>
+        <UsageCount Value="77"/>
+        <Loaded Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="projectdetailunit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="ProjectDetailForm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="ProjectDetailUnit"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="45"/>
+        <CursorPos X="31" Y="66"/>
+        <UsageCount Value="72"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="settingunit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="SettingForm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="SettingUnit"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="19"/>
+        <CursorPos X="44" Y="40"/>
+        <UsageCount Value="51"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="D:\Lazarus\fpc\3.0.4\source\packages\fcl-process\src\process.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="14"/>
+        <CursorPos X="40" Y="30"/>
+        <UsageCount Value="7"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="..\..\BUSINESS_PROJECTS\RENTCOM_ERP\RentcomErp\mainunit.pas"/>
+        <UnitName Value="MainUnit"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="160"/>
+        <CursorPos X="32" Y="185"/>
+        <UsageCount Value="9"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="D:\Lazarus\fpc\3.0.4\source\packages\fcl-json\src\fpjsonrtti.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="54"/>
+        <CursorPos X="14" Y="71"/>
+        <UsageCount Value="9"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="..\..\..\HARDWARE_PROJECTS\BUSINESS_PROJECTS\EREADER_PROJECT\FirstApp\unit1.pas"/>
+        <UnitName Value="Unit1"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="9"/>
+        <UsageCount Value="5"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="..\..\..\HARDWARE_PROJECTS\BUSINESS_PROJECTS\EREADER_PROJECT\Simulator\unit1.pas"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit1"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="229"/>
+        <CursorPos X="51" Y="247"/>
+        <UsageCount Value="5"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="D:\Lazarus\fpc\3.0.4\source\packages\fcl-json\src\fpjson.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="15"/>
+        <CursorPos X="12" Y="33"/>
+        <UsageCount Value="9"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="..\..\IDE_BASED_PROJECTS\EMBEDDED_IDE\RCC2_PROJECT\SOURCES\trunk\RCCDataUnit.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1258"/>
+        <CursorPos X="17" Y="1284"/>
+        <UsageCount Value="15"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="D:\Lazarus\lcl\include\customform.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="963"/>
+        <CursorPos Y="981"/>
+        <UsageCount Value="6"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="D:\Lazarus\lcl\include\customlistview.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1173"/>
+        <CursorPos Y="1197"/>
+        <UsageCount Value="6"/>
+      </Unit14>
+    </Units>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="settingunit.pas"/>
+        <Caret Line="12" Column="67"/>
+      </Position1>
+      <Position2>
+        <Filename Value="settingunit.pas"/>
+        <Caret Line="24" Column="67"/>
+      </Position2>
+      <Position3>
+        <Filename Value="settingunit.pas"/>
+        <Caret Line="23" Column="67"/>
+      </Position3>
+      <Position4>
+        <Filename Value="settingunit.pas"/>
+        <Caret Line="22" Column="67"/>
+      </Position4>
+      <Position5>
+        <Filename Value="settingunit.pas"/>
+        <Caret Line="21" Column="67"/>
+      </Position5>
+      <Position6>
+        <Filename Value="settingunit.pas"/>
+        <Caret Line="20" Column="67"/>
+      </Position6>
+      <Position7>
+        <Filename Value="settingunit.pas"/>
+        <Caret Line="19" Column="67"/>
+      </Position7>
+      <Position8>
+        <Filename Value="settingunit.pas"/>
+        <Caret Line="18" Column="67"/>
+      </Position8>
+      <Position9>
+        <Filename Value="settingunit.pas"/>
+        <Caret Line="17" Column="67"/>
+      </Position9>
+      <Position10>
+        <Filename Value="settingunit.pas"/>
+        <Caret Line="16" Column="67"/>
+      </Position10>
+      <Position11>
+        <Filename Value="settingunit.pas"/>
+        <Caret Line="24" Column="67"/>
+      </Position11>
+      <Position12>
+        <Filename Value="settingunit.pas"/>
+        <Caret Line="16" Column="60"/>
+      </Position12>
+      <Position13>
+        <Filename Value="settingunit.pas"/>
+        <Caret Line="15" Column="44"/>
+      </Position13>
+      <Position14>
+        <Filename Value="settingunit.pas"/>
+        <Caret Line="32" Column="37"/>
+      </Position14>
+      <Position15>
+        <Filename Value="settingunit.pas"/>
+        <Caret Line="31" Column="37"/>
+      </Position15>
+      <Position16>
+        <Filename Value="settingunit.pas"/>
+        <Caret Line="24" Column="44"/>
+      </Position16>
+      <Position17>
+        <Filename Value="settingunit.pas"/>
+        <Caret Line="23" Column="44"/>
+      </Position17>
+      <Position18>
+        <Filename Value="settingunit.pas"/>
+        <Caret Line="22" Column="25"/>
+      </Position18>
+      <Position19>
+        <Filename Value="settingunit.pas"/>
+        <Caret Line="21" Column="25"/>
+      </Position19>
+      <Position20>
+        <Filename Value="settingunit.pas"/>
+        <Caret Line="20" Column="35"/>
+      </Position20>
+      <Position21>
+        <Filename Value="settingunit.pas"/>
+        <Caret Line="16" Column="47"/>
+      </Position21>
+      <Position22>
+        <Filename Value="mainunit.pas"/>
+        <Caret Line="132" Column="35" TopLine="114"/>
+      </Position22>
+      <Position23>
+        <Filename Value="mainunit.pas"/>
+        <Caret Line="135" Column="14" TopLine="116"/>
+      </Position23>
+      <Position24>
+        <Filename Value="mainunit.pas"/>
+        <Caret Line="343" Column="22" TopLine="324"/>
+      </Position24>
+      <Position25>
+        <Filename Value="mainunit.pas"/>
+        <Caret Line="47" Column="64" TopLine="30"/>
+      </Position25>
+      <Position26>
+        <Filename Value="mainunit.pas"/>
+        <Caret Line="46" Column="64" TopLine="29"/>
+      </Position26>
+      <Position27>
+        <Filename Value="mainunit.pas"/>
+        <Caret Line="45" Column="64" TopLine="45"/>
+      </Position27>
+      <Position28>
+        <Filename Value="espdb.pas"/>
+        <Caret Line="139" Column="43" TopLine="124"/>
+      </Position28>
+      <Position29>
+        <Filename Value="espdb.pas"/>
+        <Caret Line="138" TopLine="124"/>
+      </Position29>
+      <Position30>
+        <Filename Value="espdb.pas"/>
+        <Caret Line="139" TopLine="124"/>
+      </Position30>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>

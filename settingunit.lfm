@@ -1,0 +1,76 @@
+object SettingForm: TSettingForm
+  Left = 2236
+  Height = 131
+  Top = 119
+  Width = 609
+  BorderStyle = bsDialog
+  Caption = 'Settings...'
+  ClientHeight = 131
+  ClientWidth = 609
+  Position = poScreenCenter
+  LCLVersion = '1.8.2.0'
+  object CancelButton: TButton
+    Left = 525
+    Height = 25
+    Top = 95
+    Width = 75
+    Caption = 'Cancel'
+    ModalResult = 2
+    TabOrder = 0
+  end
+  object OkButton: TButton
+    Left = 445
+    Height = 25
+    Top = 95
+    Width = 75
+    Caption = 'Ok'
+    ModalResult = 1
+    TabOrder = 1
+  end
+  object ScriptFileEdit: TEdit
+    Left = 160
+    Height = 23
+    Top = 8
+    Width = 408
+    TabOrder = 2
+  end
+  object Label1: TLabel
+    Left = 16
+    Height = 15
+    Top = 11
+    Width = 134
+    Caption = 'Python script "espota.py"'
+    ParentColor = False
+  end
+  object OpenButton: TButton
+    Left = 576
+    Height = 23
+    Top = 8
+    Width = 24
+    Caption = '...'
+    OnClick = OpenButtonClick
+    TabOrder = 3
+  end
+  object OTADefaultPwdEdit: TEdit
+    Left = 160
+    Height = 23
+    Top = 40
+    Width = 408
+    MaxLength = 255
+    TabOrder = 4
+  end
+  object Label5: TLabel
+    Left = 16
+    Height = 15
+    Top = 43
+    Width = 115
+    Caption = 'OTA Default Password'
+    ParentColor = False
+  end
+  object Bevel1: TBevel
+    Left = 8
+    Height = 2
+    Top = 80
+    Width = 592
+  end
+end
